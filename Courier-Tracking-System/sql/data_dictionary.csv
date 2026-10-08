@@ -1,0 +1,11 @@
+table_name,primary_key,key_type
+customers,customer_id,PK
+courier_partners,partner_id,PK
+branches,branch_id,PK
+employees,employee_id,PK
+shipments,shipment_id,PK
+shipment_items,item_id,PK
+tracking_events,event_id,PK
+delivery_attempts,attempt_id,PK
+payments,payment_id,PK
+feedback,feedback_id,PK
